@@ -5,16 +5,17 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-  workflow_dispatch:
+  workflow_dispatch:  # 允许手动触发工作流
   schedule:
-    - cron: "23 30 * * *"  # 每天 0:00 触发一次
+    - cron: "30 23 * * *"  # 每天 23:30 触发一次
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Create timestamped .md file
         run: |
@@ -27,6 +28,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.md
-          git commit -m "Add file $(date '+%Y-%m-%d_%H-%M-%S').md" || exit 0
-          git push origin main
+          git add DATA_UPDATE.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Add file $(date '+%Y-%m-%d_%H-%M-%S').md"
+            git push origin main
+          fi
