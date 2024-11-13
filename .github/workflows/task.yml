@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+  schedule:
+    - cron: "23 30 * * *"  # 每天 0:00 触发一次
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create timestamped .md file
+        run: |
+          timestamp=$(date "+%Y-%m-%d_%H-%M-%S")
+          echo "updated" > "$timestamp.md"
+
+      - name: Commit and push .md file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.md
+          git commit -m "Add file $(date '+%Y-%m-%d_%H-%M-%S').md" || exit 0
+          git push origin main
