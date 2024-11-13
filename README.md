@@ -1,23 +1,6 @@
 ## 中国独立开发者项目列表
 聚合所有中国独立开发者的项目
 
-#### [程序员版点这里](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md)：
-程序员版的项目需要用命令行或写一点代码。主版面(这里)是给普通用户用的，打开即用，无需命令行或编程基础
-
-**1. 为什么有这个表**
-作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）
-所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
-（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）
-
-**2. 项目有 3 种状态**
-
-| 开发中 | 已上线 | 已关闭或缺乏维护 |
-|--------|--------|--------|
-| :clock8: | :white_check_mark: | :x: |
-
-## 3. 项目列表
-（名字按时间排序，最新添加的在最上面）
-
 ### 2024 年 11 月 12 号添加
 #### vlv - [Github](https://github.com/livv)
 * :white_check_mark: [vPaste](https://apps.apple.com/cn/app/vpaste/id6444913968)：Mac 平台上一款优秀的剪切板工具。
