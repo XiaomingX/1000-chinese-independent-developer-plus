@@ -19,7 +19,7 @@ jobs:
       - name: Create timestamped .md file
         run: |
           timestamp=$(date "+%Y-%m-%d_%H-%M-%S")
-          echo "updated" > "$timestamp.md"
+          echo "updated" > "DATA_UPDATE.md"
 
       - name: Commit and push .md file
         env:
