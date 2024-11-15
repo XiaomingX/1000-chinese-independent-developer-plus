@@ -27,6 +27,8 @@
 
 🤖 [AI搞钱原则手册](https://github.com/XiaomingX/ai-money-maker-handbook)
 
+🛠️ [构建你自己的X](https://github.com/XiaomingX/build-your-own-xxx)
+
 ## 所有项目清单
 
 | 类别           | 开发者               | 项目名称                     | 链接                                                      | 简介                                                                                                                                                      |
