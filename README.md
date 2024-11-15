@@ -30,11 +30,13 @@
 | 色彩管理工具   | meetqy               | aiseka.com                   | [aiseka.com](https://aiseka.com)                          | 色彩管理工具，支持色卡制作和推荐。                                                                                                                       |
 | 技术分析工具   | fengmao              | liusha tech detector         | [liusha tech detector](https://liusha.org/)               | 提交网址后分析技术栈信息。                                                                                                                               |
 | 数据备份       | QC2168               | MIB                          | [MIB](https://github.com/QC2168/mib)                      | 安卓数据备份工具，支持增量备份。                                                                                                                         |
-| Reddit 运营工具 | Nico                 | Subrise                      | [Subrise](https://subrise.co/zh)                          | 为出海创业者提供的 Reddit 运营工具，帮助发现优质流量社区。                                                                                              |
-| 飓风模拟器     | 疯狂的小波           | Hurricane Simulator          | [Hurricane Simulator](https://hurricanesimulator.org/)    | 模拟飓风影响的工具，提高灾害意识。                                                                                                                      |
+| Reddit 运营工具 | Nico                 | Subrise                      | [Subrise](https://subrise.co/zh)                          | 为出海创业者提供的 Reddit 运营工具，帮助发现优质流量社区。                                                                                              
+|
+| 飓风模拟器     | 疯狂的小波           | Hurricane Simulator          | [Hurricane Simulator](https://hurricanesimulator.org/)    | 模拟飓风影响的工具，提高灾害意识。                                                       
+|
 | 图片转表格     | zhiya                | Image to excel               | [Image to excel](https://itexcel.izhiyakeji.com/zh-Hans/) | 识别图片中的表格并转换为 Excel 文档。
-
-| 音乐游戏           | xiaocui723           | Sprunked                     | [Sprunked](https://sprunked.online/)                           | 基于 Scratch 的在线音乐游戏，添加创新玩法和角色。                                                                                            |
+|
+| 音乐游戏           | xiaocui723           | Sprunked               | [Sprunked](https://sprunked.online/)                           | 基于 Scratch 的在线音乐游戏，添加创新玩法和角色。                                                                                            |
 | Notion 内容分享    | Shanshi              | Notion Exporter              | [Notion Exporter](https://notionexporter.com/)                | 将 Notion 内容转成卡片便于社交媒体分享。                                                                                                    |
 | 英语学习助手       | Honwhy Wang          | 扇贝单词助手V3               | [扇贝单词助手V3](https://shanbay.pages.dev)                   | 扇贝网用户的 Chrome 插件，帮助在网页上学习英语。                                                                                            |
 | 文档转音频         | Ethan Sunray         | Inpodcast AI                 | [Inpodcast AI](https://inpodcast.ai)                           | 将 PDF、Word 等文档转为播客音频。                                                                                                            |
@@ -49,7 +51,7 @@
 | 沙盒游戏           | 疯狂的小波           | Hawthorn Game                | [Hawthorn Game](https://hawthorngame.org)                      | 最新的沙盒游戏介绍，提供在线试玩。                                                                                                            |
 | 浏览记录统计       | biboom               | Ranking Tabs                 | [Ranking Tabs](https://chromewebstore.google.com/detail/...)   | 统计网站浏览次数的 Chrome 插件。                                                                                                             |
 | AI 形象生成       | 阿凯呵               | AI 形象照                    | [AI 形象照](https://luna-headshot.sodair.top/)                | 基于一张照片生成 AI 简历形象照，支持电脑摄像头拍摄。                                 
-
+|
 | 音乐游戏       | xiaocui723           | Sprunked                     | [Sprunked](https://sprunked.online/)                      | 基于 Scratch 的在线音乐游戏，具有创新玩法和新角色。                                                                                                       |
 | Notion导出工具 | Shanshi              | Notion Exporter              | [Notion Exporter](https://notionexporter.com/)            | 将 Notion 内容转成卡片，便于分享至社交媒体。                                                                                                            |
 | 语言学习助手   | Honwhy Wang          | 扇贝单词助手V3               | [扇贝单词助手V3](https://shanbay.pages.dev)               | Chrome 插件，助力扇贝网用户轻松学习英语。                                                                                                               |
@@ -79,7 +81,7 @@
 | 二维码生成工具 | 0xJoanne             | QRCode.fun                   | [QRCode.fun](https://qrcode.fun)                          | 在线二维码生成工具。                                                                                                                                   |
 | 广告高亮扩展   | 鸭鸭「カモ」         | 高亮“广告”                  | [高亮“广告”](https://github.com/DuckDuckStudio/highlight-ad-extension) | 用于高亮网页中的“广告”字样的扩展。                                                                                                                    |
 | IP查询工具     | Frey                 | IP.IM                        | [IP.IM](https://ip.im)                                    | 简洁准确的 IP 信息查询网站，支持 curl。                                               
-
+|
 | 视频播放器       | xurenda              | enjoy-player                     | [enjoy-player](https://github.com/xurenda/enjoy-player)     | 在线视频播放器，支持 HLS 视频流播放，可用于 CMS 视频采集。                                                                                                                 |
 | 许可证选择器     | 风巢森淼             | 开源许可证选择器                 | [开源许可证选择器](https://open-source-license-chooser.toolsnav.top) | 提供用户友好的开源许可证选择工具，包括许可证比较和使用情况图表。                                                                                                            |
 | 填色生成         | yuesheng zheng       | SoColoring                       | [SoColoring](https://www.socoloring.com)                    | AI 驱动的填色稿生成平台，支持文本生成和 AI 一键上色。                                                                                                                     |
@@ -118,7 +120,7 @@
 | SEO 知识分享     | shaoyangliu          | 流沙 SEO                         | [流沙 SEO](https://liusha.com)                              | 分享谷歌 SEO 相关知识。                                                                                                                                                   |
 | AI 辅助工具       | tutorial0            | 撩妹神器                         | [撩妹神器](https://dirtypickuplines.org/)                  | AI 约会辅助工具，生成搭讪用语。                                                                                                                                            |
 | 字体生成器       | 风巢森淼             | 奇异字体生成器                    | [奇异字体生成器](https://freakyfontgenerator.top)           | 转换各种独特字体样式。                                                            
-
+|
 | 简历设计器       | 91化简               | 91化简 | [91化简](https://91huajian.cn/)                             | 开源简历设计器，提供多种模板。                                                                                                                                            |
 | 书单推荐         | seeeeal              | 下一本读什么                     | [下一本读什么](https://xiayibendushenme.com/)               | 汇总优质书单，按主题分类，帮助解决书荒。                                                                                                                                  |
 | AI 资料导航      | Airyland             | Awesome Flux AI                 | [Awesome Flux AI](https://www.awesomefluxai.com)            | Flux AI 资料导航。                                                                                                                                                       |
@@ -153,9 +155,6 @@
 | 抓包工具         | 7SaiWen              | Network Sniffer                 | [Network Sniffer](https://apps.apple.com/cn/app/id6450956188) | 网络抓包工具，支持 HTTP(S)/Socket 抓包。                                                                                                                              |
 | Notion 插件      | Joans                | Notion Mate                     | [Notion Mate](https://www.notionmate.top/)                  | 提供多种 Notion 自定义功能，包括大纲、主题、图像查看器等。                                                                                                                |
 | 加密聊天         | 小草林               | 诶嘿(EI)                         | [诶嘿(EI)](https://ei.xcl.ink/)                             | 加密智慧聊天 APP，包含 AI 对话和跨平台语音转文本。                                
-
-| 类别              | 开发者            | 项目名称                        | 链接                                                                     | 简介                                                                                                                      |
-|-------------------|-------------------|---------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | 优惠券查找        | onesthink         | 电商优惠券查找脚本               | [电商优惠券查找脚本](https://greasyfork.org/zh-CN/scripts/489212)        | 查询领取淘宝、天猫、京东等电商平台的优惠券。                                                                             |
 | Airtable 工具      | sjdeak            | Airtable iOS Shortcuts Library  | [Airtable iOS Shortcuts](https://shortcuts.sequentialroutine.com)        | 为 iOS 设备设计的 Airtable 快捷指令库，简化操作。                                                                          |
 | GPT 聊天工具      | fengfeng          | 共鸣 Chat                        | [共鸣 Chat](https://apps.apple.com/cn/app/id6476399027)                   | 基于 ChatGPT 的 iOS App，支持多种模型及多语言。                                                                           |
@@ -189,7 +188,7 @@
 | 直播平台           | hsslive           | billd-live                       | [billd-live](https://live.hsslive.cn)                                   | 仿 B 站的个人直播间。                                                                                                  |
 | 远程桌面           | hsslive           | billd-desk                       | [billd-desk](https://desk.hsslive.cn)                                   | 仿 todesk 的远程桌面工具。                                                                                             |
 | 大小写转换         | August            | Case Convert Online              | [Case Convert Online](https://convertcase.indiehacker.online/)           | 英文大小写转换工具。                                            
-
+|
 | 导航工具       | someu             | AigoTools                    | [AigoTools](https://www.aigotools.com)                      | AI 自动收录网站信息的导航站。                                                                                     |
 | Dubbo 管理软件 | qiaolin           | Dubbo-Desktop-Manager        | [Dubbo-Desktop-Manager](https://github.com/qiaolin-li/dubbo-desktop-manager) | Dubbo 桌面管理工具。                                                                                             |
 | 去水印工具     | 诸葛子房          | 小红书去水印下载             | [去水印下载](https://www.xhs-download.online/)               | 小红书图片、视频去水印下载工具。                                                                                  |
@@ -220,7 +219,7 @@
 | 日语学习工具   | luhaifeng666      | Bunpou                       | [Bunpou](https://luhaifeng666.github.io/bunpou/)            | 日语语法整理工具，包含 N5-N1 级别语法。                                                                           |
 | 假名练习工具   | luhaifeng666      | Kana playground              | [Kana playground](https://luhaifeng666.github.io/kana-playground/) | 日语假名学习平台。                                                                                                 |
 | 教学管理       | wells2333         | sg-exam                      | [sg-exam](https://yunmianshi.com.cn/#/home)                 | 教学管理平台，支持在线考试和互动学习。                                                  
-
+|
 | AI 翻译工具  | Aissen           | Miko AI 翻译                  | [Miko AI 翻译](https://chatmiko.com)                      | 支持 10 万字、30 种语言的免费 AI 翻译工具。                                                                                                              |
 | 媒体播放器   | nini22P          | OMP                           | [OMP](https://nini22p.github.io/omp/)                     | 网页端 OneDrive 媒体播放器。                                                                                                                             |
 | 定时器       | gofxas           | 厨房定时器                    | [厨房定时器](https://timing.cpdd.cool/)                   | 针对移动端设计的滑动操作定时器。                                                                                                                          |
@@ -253,7 +252,7 @@
 | 标签管理     | Quanzhitong      | Honey Tab                     | [Honey Tab](https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN&utm_source=ext_sidebar) | 浏览器标签管理工具，支持快捷键操作。                                                                                                                     |
 | OCR 插件     | 诸葛子房         | 谷歌浏览器 OCR 插件           | [OCR 插件](https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0) | 将截图识别为文字的插件。                                                                                                                                 |
 | 时间追踪     | hanaTsuk1        | shion                         | [shion](https://shion.app/zh/)                            | 时间追踪软件，用于记录生活瞬间。                                                           
-
+|
 | 日记应用       | Yu-Core           | 侠客日记                   | [侠客日记](https://github.com/Yu-Core/SwashbucklerDiary)    | 本地日记 App，开源且跨平台。                                                                                                                                       |
 | 捕获工具       | Ayden             | ElemSnap                   | [ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna) | 捕获网页元素并自动美化成图片的浏览器插件。                                                                                                                         |
 | 图像生成工具   | Ethan Sunray       | AI Image Generator         | [AI Image Generator](https://aiimagegenerator.io/)          | 免费的在线 AI 文本到图像生成工具，支持多种生成类型，无需登录。                                                                                                    |
@@ -291,9 +290,6 @@
 | SaaS导航       | seven             | SaaStores                  | [SaaStores](https://sasstores.top/)                         | 收录优质 SaaS 软件和 AI 知识的导航站。                                                                                                                          |
 | 社交工具       | BindBook          | BindBook                   | [BindBook](https://s21.ax1x.com/2024/03/31/pF7mmKx.png)     | 社交关系记录小程序，提供倒数日提醒等功能。                                                                                                                      |
 | 旅行相册       | H寒峰              | TTW: Travel Memoir         | [TTW](https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389) | 旅行相册生成工具，通过照片生成旅行时间线。                                                                                                                     |
-| 围棋
-
-软件       | 奔跑的小山猪       | 阿Q专业版                   | [阿Q专业版](https://www.pgyer.com/aqgo)                     | 围棋 AI 软件，职业九段水平。                                                                                                                                     |
 | 围棋连线       | 奔跑的小山猪       | 阿Q连线器                   | [阿Q连线器](https://www.pgyer.com/connector)                | 通用围棋 AI 连线器，适合看棋和学习。                                                                                                                            |
 | 围棋记谱       | 奔跑的小山猪       | 阿Q对弈宝                   | [阿Q对弈宝](https://www.pgyer.com/aqrecorder)               | 自动记谱工具，让棋盘智能化。                                                                                                                                     |
 | 围棋棋钟       | 奔跑的小山猪       | 阿Q棋钟                     | [阿Q棋钟](https://www.pgyer.com/aqclock)                    | 美观易用的围棋、象棋棋钟软件。                                                                                                                                   |
@@ -302,7 +298,7 @@
 | 图片编辑       | SleepyZone         | fabritor                   | [fabritor](https://fabritor.surge.sh/)                      | 创意图片编辑器，适用于海报、小红书封面等设计。                                                                                                                  |
 | AI教练         | Wesley            | White80 Football           | [White80 Football](https://white80.football)               | AI 橄榄球助理教练，支持战术分析与生成。                                                                                                                         |
 | 面试工具       | Wesley            | InterviewAI               | [InterviewAI](https://interviewai.me)                       | AI 模拟面试工具，帮助用户备考。                                                          
-
+|
 | 视频自动化     | Touchumind           | VoxScripts                   | [VoxScripts](https://voxscripts.com)                      | 自动化视频转录、字幕制作、字幕翻译和配音的桌面软件。                                                                                                     |
 | 饮品记录       | 变当                 | 记一杯                       | [记一杯](https://apps.apple.com/cn/app/%E8%AE%B0%E4%B8%80%E6%9D%AF/id6478443878) | 奶茶、咖啡、饮品记录 App。                                                                                                                              |
 | 视频语言转换   | 李志博               | Youtube Dubbing              | [Youtube Dubbing](https://www.youtube-dubbing.com/)       | 解决在线观看视频的语言障碍。                                                                                                                             |
@@ -312,7 +308,7 @@
 | 加密存储       | DawnRiver            | Meebox                       | [Meebox](https://meebox.io)                               | 集文本、密码、图片等于一体的加密存储 APP。                                                                                                               |
 | 壁纸下载       | zzzmh                | 极简壁纸                     | [极简壁纸](https://bz.zzzmh.cn)                           | PC 壁纸在线预览和下载网站。                                                                                                                             |
 | 浏览器插件     | zzzmh                | 极简插件                     | [极简插件](https://chrome.zzzmh.cn)                       | Chrome 浏览器插件下载网站。                                                            
-
+|
 | 临时邮箱       | oiov                 | vmail                        | [vmail](https://vmail.dev)                                | 临时邮箱生成工具。                                                                                                                                       |
 | AI 图像工具    | Ethan Sunray         | Remove Bg                    | [Remove Bg](https://removebg.one/)                        | 100% 免费的在线 AI 抠图工具。                                                                                                                           |
 | AI 图像修复    | Ethan Sunray         | Restore Photos               | [Restore Photos](https://restorephotos.one/)              | 免费 AI 修复黑白照片和模糊人脸照片工具。                                                                                                               |
@@ -339,8 +335,7 @@
 | AI记账         | AtlanticF            | AI语音记账                   | [AI语音记账](https://github.com/AtlanticF/chinese-independent-developer/assets/14820026/83165766-9dca-47fb-a475-49892f1f719c) | 微信小程序，通过 AI 语音识别实现记账。                                                                                                                  |
 | 图片素材       | zhenming             | xldream                      | [xldream](https://www.xldream.com)                        | 免费 AIGC 图片素材网。                                                                                                                                   |
 | 收藏管理       | shartoo              | webhub123                    | [webhub123](https://www.webhub123.com/#/home/more)        | 跨站收藏夹，管理和分享网站链接。
-
-                                                                                                                         |
+|
 | 图片编辑       | Zoyou                | PhotoFun                     | [PhotoFun](https://www.photofun.cn/)                      | 在线图片编辑和压缩工具。                                                                                                                                 |
 | Markdown便签  | Qiwei                | Markdown Sticky Note         | [Markdown Sticky Note](https://chrome.google.com/webstore/detail/aiakblgmlabokilgljkglggnpflljdgp) | 浏览器插件，可以在网页创建 Markdown 便签。                                                                                                              |
 | 漏洞情报       | Fooying              | SEC.CAFE安全咖啡             | [SEC.CAFE](https://sec.cafe)                              | 安全漏洞情报聚合平台。                                                                                                                                   |
@@ -390,7 +385,7 @@
 | 词挖掘工具     | 简具科技             | 抖音高转化精准词获取工具    | [精准词获取工具](http://jianju.3ddysj.com/douyinxialachi.html) | 自动挖掘抖音热词，分析高转化词。                                                                                                                  |
 | AI 食谱        | 控Kong               | AI食谱                       | [AI食谱](https://user-images.githubusercontent.com/17782609/...) | 根据体重与公式生成食谱的微信小程序。                                                                             |
 | AI 选股工具    | yvonuk               | StockAI.Trade                | [StockAI.Trade](https://stockai.trade/)                   | 基于 ChatGPT 的免费 AI 选股分析网站。                                               
-
+|
 | 开发者工具     | 林建彧               | DevShots                     | [DevShots](https://devshots.gpwzw.com)                    | 开发者用的代码分享图片生成工具。                                                                                                                         |
 | 语音备忘       | VOME                 | VOME                         | [VOME](https://apps.apple.com/au/app/vome/id6468956601)   | 极简的语音转文字 Memo 应用。                                                                                                                             |
 | 播客管理       | 硬地骇客             | Podwise                      | [Podwise](https://podwise.xyz/)                           | 专为播客设计的 AI 知识管理应用。                                                                                                                         |
@@ -445,5 +440,4 @@
 | ChatGPT 客户端 | Airsaid              | ChatBoost                     | [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) | Android 原生 ChatGPT 客户端。                                                                                                                         |
 | 数字拼图       | Airsaid              | 数字华容道                    | [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle) | 经典数字拼图智力小游戏。                                                                                                                             |
 | 休闲游戏       | Airsaid              | 点点                          | [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot) | 连点成线的休闲小游戏。                                             
-
 |
