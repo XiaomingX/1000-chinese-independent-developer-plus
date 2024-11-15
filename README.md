@@ -27,11 +27,6 @@
 
 🤖 AI搞钱原则手册：https://github.com/XiaomingX/ai-money-maker-handbook
 
-
-## 如果你有好项目需要推荐加入列表
-
-请私信联系或者添加Issue
-
 ## 所有项目清单
 
 | 类别           | 开发者               | 项目名称                     | 链接                                                      | 简介                                                                                                                                                      |
@@ -453,3 +448,8 @@
 | ChatGPT 客户端 | Airsaid              | ChatBoost                     | [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) | Android 原生 ChatGPT 客户端。                                                                                                                         |
 | 数字拼图       | Airsaid              | 数字华容道                    | [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle) | 经典数字拼图智力小游戏。                                                                                                                             |
 | 休闲游戏       | Airsaid              | 点点                          | [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot) | 连点成线的休闲小游戏。                                             
+
+
+## 如果你有好项目需要推荐加入列表，或者项目已经废弃申请删除...
+
+请私信联系或者添加Issue
