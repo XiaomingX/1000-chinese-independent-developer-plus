@@ -21,6 +21,13 @@
 | AI 形象生成       | 阿凯呵               | AI 形象照                    | [AI 形象照](https://luna-headshot.sodair.top/)                | 基于一张照片生成 AI 简历形象照，支持电脑摄像头拍摄。                                 
 | 快餐模拟游戏       | 疯狂的小波           | Fast Food Simulator          | [Fast Food Simulator](https://fastfoodsimulator.co)           | 在线快餐店模拟经营游戏。    
 
+## 常用资源清单
+
+🌍 跨境出海技术栈：https://github.com/XiaomingX/indie-hacker-tools-plus
+
+🤖 AI搞钱原则手册：https://github.com/XiaomingX/ai-money-maker-handbook
+
+
 ## 如果你有好项目需要推荐加入列表
 
 请私信联系或者添加Issue
