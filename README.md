@@ -439,4 +439,3 @@
 | ChatGPT 客户端 | Airsaid              | ChatBoost                     | [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) | Android 原生 ChatGPT 客户端。                                                                                                                         |
 | 数字拼图       | Airsaid              | 数字华容道                    | [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle) | 经典数字拼图智力小游戏。                                                                                                                             |
 | 休闲游戏       | Airsaid              | 点点                          | [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot) | 连点成线的休闲小游戏。                                             
-|
