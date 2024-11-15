@@ -23,9 +23,9 @@
 
 ## 常用资源清单
 
-🌍 跨境出海技术栈：https://github.com/XiaomingX/indie-hacker-tools-plus
+🌍 [跨境出海技术栈](https://github.com/XiaomingX/indie-hacker-tools-plus)
 
-🤖 AI搞钱原则手册：https://github.com/XiaomingX/ai-money-maker-handbook
+🤖 [AI搞钱原则手册](https://github.com/XiaomingX/ai-money-maker-handbook)
 
 ## 所有项目清单
 
