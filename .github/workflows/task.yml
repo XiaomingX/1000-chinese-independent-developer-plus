@@ -19,8 +19,8 @@ jobs:
 
       - name: Create timestamped .md file
         run: |
-          timestamp=$(date "+%Y-%m-%d_%H-%M-%S")
-          echo "updated" > "DATA_UPDATE.md"
+          timestamp=$(date "+%Y-%m-%d %H:%M:%S")
+          echo "Last update time: $timestamp" > "DATA_UPDATE.md"
 
       - name: Commit and push .md file
         env:
@@ -32,6 +32,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Add file $(date '+%Y-%m-%d_%H-%M-%S').md"
+            git commit -m "Update DATA_UPDATE.md with timestamp $(date '+%Y-%m-%d %H:%M:%S')"
             git push origin main
           fi
