@@ -33,6 +33,9 @@
 
 🛠️ [构建你自己的X](https://github.com/XiaomingX/build-your-own-xxx)
 
+📋 [1000个中国独立开发者项目](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
+
+
 ## 所有项目清单
 
 | 类别           | 开发者               | 项目名称                     | 链接                                                      | 简介                                                                                                                                                      |
