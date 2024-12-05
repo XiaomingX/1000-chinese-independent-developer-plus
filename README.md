@@ -16,7 +16,9 @@
 
 下表汇总了来自中国的独立开发者和他们的作品，分类展示了各类实用工具，方便你快速找到感兴趣的项目。
 
+## 贡献方法
 
+ - 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/XiaomingX/1000-chinese-independent-developer-plus/issues/new) 。
 
 ## ✨ 精品项目清单
 | 类别           | 开发者               | 项目名称                     | 链接                                                      | 简介                                                                                                                                                      |
