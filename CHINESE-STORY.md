@@ -5,7 +5,7 @@
  - [两兄妹被裁后创业，第四年估值3000亿](https://juejin.cn/post/7448899175356153890)
  - [3个人，创业不到1年，估值600亿](https://juejin.cn/post/7448895185701961780)
 
-
-
 # 海外数据分析
- - [理解一下Y Combinator的投资数据](https://juejin.cn/post/7448835744931037193)
+ - [理解一下Y Combinator的投资数据]( https://juejin.cn/post/7448835744931037193)
+ - [601个大模型应用落地真实实践案例]( https://mp.weixin.qq.com/s/rsbWzqwka0-bi70PoBYEXw )
+
