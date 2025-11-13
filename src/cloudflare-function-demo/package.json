@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "build": "scripts/build.sh",
+    "clean": "rm -rf dist",
+    "lint:tsc": "tsc --noEmit -p functions/tsconfig.json",
+    "start": "npm run build && wrangler pages dev dist --kv=KV_BINDING --r2=R2_BUCKET"
+  },
+  "dependencies": {
+    "@cloudflare/pages-plugin-graphql": "1.0.4",
+    "graphql": "16.9.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20241112.0",
+    "marked": "15.0.2",
+    "typescript": "5.6.3",
+    "wrangler": "3.89.0"
+  }
+}
