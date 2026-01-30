@@ -142,6 +142,62 @@
 | **单位/效率计算** | Jessen Wang | **极简换算** | [访问](https://apps.apple.com/cn/app/id6448924181) | **设计竞争力**：在一众同质化计算器中凭借极致的设计感和交互效率脱颖而出。 |
 | **按键检测/演示** | Sunrisepeak | **KHistory** | [访问](https://github.com/Sunrisepeak/KHistory) | **特定场景价值**：为直播、教学、演示录制提供跨平台按键显示，目标客户明确。 |
 | **寓教于乐RPG** | Tan | **DenoPark** | [访问](https://denopark.com) | **差异化竞争**：将打字练习与RPG游戏结合，解决了枯燥的记忆痛点，有较高的用户留存潜力。 |
+| **AI 产品营销** | Lunroo | Lunroo | [https://lunroo.com](https://lunroo.com) | 45+ 免费 AI 工具，专注于社交媒体营销，提升效率。 |
+| **AI 财务辅助** | COUNT | COUNT | [https://getcount.com](https://getcount.com) | AI 驱动的小企业会计工具，简化财务流程。 |
+| **AI 市场分析** | Competitor Research | Competitor Research | [https://www.competitoresearch.com](https://www.competitoresearch.com) | AI 驱动的竞品分析工具，帮助公司跟踪竞争对手。 |
+| **AI 开发平台** | StartKit.AI | StartKit.AI | [https://startkit.ai](https://startkit.ai) | 快速构建 AI 产品的样板工程。 |
+| **AI 数据抓取** | No-Code Scraper | No-Code Scraper | [https://www.nocodescraper.com/](https://www.nocodescraper.com/) | 无需代码，通过 AI 从任何网站轻松提取数据。 |
+| **AI SEO工具** | BacklinkGPT | BacklinkGPT | [https://www.backlinkgpt.com/](https://www.backlinkgpt.com/) | AI 驱动的链接建设平台，助力 SEO。 |
+| **AI 语言学习** | LangMagic | LangMagic | [https://easytolearn.io](https://easytolearn.io) | 通过原生内容学习语言的 AI 工具。 |
+| **AI 文案生成** | Persuva | Persuva | [https://persuva.ai](https://persuva.ai) | AI 驱动的平台，规模化创建有说服力、高转化率的广告文案。 |
+| **AI 文案优化** | Dittto.ai | Dittto.ai | [https://dittto.ai](https://dittto.ai) | 通过 AI 优化 Hero 文案，提升 SaaS 网站效果。 |
+| **AI SEO工具** | SEOByAI | SEOByAI | [https://seoby.ai](https://seoby.ai) | 免费 AI SEO 工具，帮助网站更快提升 Google 排名。 |
+| **AI 后端服务** | SinglebaseCloud | SinglebaseCloud | [https://singlebase.cloud](https://singlebase.cloud) | AI 驱动的后端平台，集成了 Vector DB、DocumentDB、Auth 等，加速应用开发。 |
+| **AI 内容创作** | TrollyAI | TrollyAI | [https://trolly.ai/](https://trolly.ai/) | 2 倍速创建专业 SEO 文章。 |
+| **AI 数据抓取** | WebscrapeAI | WebscrapeAI | [https://webscrapeai.com/](https://webscrapeai.com/) | 无需代码，通过 AI 抓取任何网站。 |
+| **AI 建筑设计** | Architecture Helper | Architecture Helper | [https://architecturehelper.com](https://architecturehelper.com) | 分析建筑风格，秒速生成自定义设计。 |
+| **AI 流程图** | Code to Flow | Code to Flow | [https://codetoflow.com](https://codetoflow.com) | 将代码转化为交互式流程图，可视化分析代码逻辑。 |
+| **AI 播客制作** | Recast Studio | Recast Studio | [https://recast.studio](https://recast.studio) | AI 驱动的播客营销助手。 |
+| **AI 视频剪辑** | Clipwing | Clipwing | [https://clipwing.pro/](https://clipwing.pro/) | 将长视频剪辑成数十个短片段的工具。 |
+| **AI 音频新闻** | Tailor | Tailor | [https://www.usetailor.com](https://www.usetailor.com) | 每日 AI 生成的个性化播客和新闻简报。 |
+| **AI 代码辅助** | ZZZ Code AI | ZZZ Code AI | [https://zzzcode.ai/](https://zzzcode.ai/) | 免费 AI 网站，解答编程问题或生成代码。 |
+| **AI 图像生成** | Scribble Diffusion | Scribble Diffusion | [https://scribblediffusion.com/](https://scribblediffusion.com/) | 将草图转化为精美图像的 AI 工具。 |
+| **AI 图像编辑** | Paint by Text | Paint by Text | [https://paintbytext.chat/](https://paintbytext.chat/) | 通过文字指令编辑照片的 AI 工具。 |
+| **AI 游戏资产** | Scenario AI | Scenario AI | [https://www.scenario.gg/](https://www.scenario.gg/) | AI 生成的游戏资产。 |
+| **AI 图像生成** | AnimalAI | AnimalAI | [https://animalai.co/](https://animalai.co/) | 自定义 AI 生成的动物肖像。 |
+| **AI 艺术生成** | starryai | starryai | [https://www.starryai.com/](https://www.starryai.com/) | AI 艺术生成器 App。 |
+| **AI 绘画工具** | ProsePainter | ProsePainter | [https://www.prosepainter.com/](https://www.prosepainter.com/) | 交互式工具，通过“文字”进行绘画创作。 |
+| **AI 自动化** | Nekton.ai | Nekton.ai | [https://nekton.ai/](https://nekton.ai/) | 通过 AI 自动化您的工作流程。 |
+| **AI 文档对话** | Documind.chat | Documind.chat | [https://documind.chat](https://documind.chat) | 通过 AI 与 PDF 文档对话，进行问答。 |
+| **AI 文档对话** | Chatpdf.so | Chatpdf.so | [https://chatpdf.so](https://chatpdf.so) | 通过 GPT4 AI 与 PDF 文档对话。 |
+| **AI 聊天机器人** | Yona.ai | Yona.ai | [https://yona.ai](https://yona.ai) | 根据个人对话创建个性化 AI 聊天机器人。 |
+| **AI 文档对话** | Voicesphere | Voicesphere | [https://www.voicesphere.co/](https://www.voicesphere.co/) | 与文档对话，获取智能、上下文相关的答案。 |
+| **AI 聊天应用** | Tune AI | Tune AI | [https://chat.tune.app/](https://chat.tune.app/) | 基于开源模型驱动的 AI 聊天应用。 |
+| **AI 移动应用** | GPT Mobile | GPT Mobile | [https://github.com/Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) | 可与多个 LLM 同时聊天的 Android 应用。 |
+| **AI 页面生成** | PageGen | PageGen | [https://pagegen.ai](https://pagegen.ai) | AI 页面生成器，利用 Claude AI、React 和 Shadcn UI。 |
+| **AI 故事生成** | PerchanceStory | PerchanceStory | [https://perchancestory.com/](https://perchancestory.com/) | AI 驱动的互动故事生成器。 |
+| **AI 图像处理** | Hotpot.ai | Hotpot.ai | [https://hotpot.ai/](https://hotpot.ai/) | 一系列 AI 工具，用于图像后期处理。 |
+| **AI 图像处理** | Toonify yourself | Justin Pinkney | [https://www.justinpinkney.com/toonify-yourself/](https://www.justinpinkney.com/toonify-yourself/) | 将人脸转化为卡通风格。 |
+| **AI 艺术风格化** | deepart.io | deepart.io | [https://deepart.io/](https://deepart.io/) | 在线工具，用于应用艺术风格转换。 |
+| **AI 图像生成** | Artbreeder | Artbreeder | [https://www.artbreeder.com/](https://www.artbreeder.com/) | 通过混合现有图像生成新图像的网页工具。 |
+| **AI 艺术风格化** | Ostagram.ru | Ostagram.ru | [https://www.ostagram.me/](https://www.ostagram.me/) | 图像风格转换平台。 |
+| **AI 图像编辑** | cleanup.pictures | cleanup.pictures | [https://cleanup.pictures/](https://cleanup.pictures/) | 免费去除图片中的物体、人物、文字和瑕疵。 |
+| **AI 背景移除** | remove.bg | remove.bg | [https://www.remove.bg/](https://www.remove.bg/) | 免费从图像中移除背景。 |
+| **AI 识别游戏** | Quick, Draw! | Google | [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com/) | 神经网络学习识别涂鸦的小游戏。 |
+| **AI 视频生成** | Runway ML | Runway ML | [http://runwayml.com/](http://runwayml.com/) | AI 视频创作套件。 |
+| **AI 多模态生成** | Snowpixel | Snowpixel | [https://snowpixel.app](https://snowpixel.app) | 通过文本和/或图像生成图像/视频/动画/音频/音乐/3D 对象。 |
+| **AI UI生成** | V0 | V0 | [https://v0.dev/chat](https://v0.dev/chat) | Text to UI 生成器。 |
+| **AI UI生成** | OpenUI | wandb | [https://github.com/wandb/openui](https://github.com/wandb/openui) | 基于 Prompt 构建 UI 组件，与 V0.dev 相似。 |
+| **AI Logo设计** | Logo AI | Logo AI | [https://www.logoai.com](https://www.logoai.com) | AI 驱动的 Logo 制作工具。 |
+| **AI 财务自动化** | midday.ai | midday.ai | [https://midday.ai/](https://midday.ai/) | 企业财务自动化，关联银行账单，程序化会计工作。 |
+| **AI Twitter工具** | Tweeteasy | Tweeteasy | [https://tweeteasy.io](https://tweeteasy.io) | Twitter AI 工具，轻松创建引人入胜的推文。 |
+| **AI 广告视频** | AdsDog | AdsDog | [https://adsdog.ai/](https://adsdog.ai/) | 通过 AI 生成高质量的数字人广告宣传视频。 |
+| **AI 生产力助手** | Monica | Monica | [https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar](https://chromewebstore.google.com/detail/monica-your-ai-copilot-po/ofpnmcalabcbjgholdjcjblkibolbppb?hl=zh-CN&utm_source=ext_sidebar) | 针对每个网站推荐常用 AI 工具的 AI Copilot 浏览器插件。 |
+| **AI 信息渠道** | Chief AI Office | Chief AI Office | [https://www.chiefaioffice.xyz/](https://www.chiefaioffice.xyz/) | 跟踪 AI 初创公司融资动态的情报平台。 |
+| **AI 工具发现** | Toolify.ai | Toolify.ai | [https://www.toolify.ai/](https://www.toolify.ai/) | 发现和了解当下最火热的 AI 应用和服务。 |
+| **AI 产品提交** | PoweredByAI | PoweredByAI | [https://poweredbyai.app](https://poweredbyai.app) | 免费提交 AI 产品的平台。 |
+| **AI 信息订阅** | 72 个全球顶级 AI 信源 | tidyread.ai | [https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn](https://tidyread.ai/recommended-recipes/ai-reading-list-pro-cn) | 一键订阅 72 个全球顶级 AI 信源，每日自动生成翻译、摘要后的简报。 |
+| **AI 模型集成** | AI-Flow | AI-Flow | [https://ai-flow.net/](https://ai-flow.net/) | 轻松连接多个 AI 模型。 |
 
 ## 常用资源清单
 
@@ -160,37 +216,4 @@
 
 ## 如果你有好项目需要推荐加入列表，或者项目已经废弃申请删除...
  - 请私信联系或者添加Issue
-
-## 更新日志
-
-### 📅 2026-01-13
-
-* **精选工具清单深度重构**：
-* **价值洗牌**：剔除了超过 60% 的同质化 AI 套壳站及低商业价值工具。
-* **逻辑重组**：按“强生产力”、“刚需痛点”、“设计竞争力”及“高商业变现潜力”四个维度重新筛选项目。
-* **优中选优**：针对功能重合领域（如 Markdown 笔记、图片处理），仅保留了如 **妙言**、**OHTTPS** 等具备行业竞争力的顶尖项目。
-
-
-
-### 📅 2025-05-27
-
-* **实战案例库扩容**：
-* 新增 `601-startups.md`：收录 601 个 AI 创业真实案例，涵盖从垂直赛道切入到商业闭环的全过程。
-* 新增 `1000-yc-idea.md`：解构 1000+ 个来自 YC 的初创公司 Idea。通过“隐藏公司名”的方式，引导用户专注于产品底层逻辑与“Copy to China”的可行性分析。
-
-
-* **路演动态追踪**：
-* 增加了近期高热度路演笔记，提炼了新锐初创公司的核心商业模式及其正在解决的非共识问题。
-
-
-
-### 📅 2025-05-27 之前
-
-* **版本雏形建立**：
-* 确立了以“独立开发者作品”为核心的收录框架，完成了初始版本的架构搭建。
-
-* 2026-01-13
-* 全面重构 Awesome Landing Page 章节，清理了 AngularJS、jQuery 等过时技术栈及大量失效链接.
-* 新增基于 Next.js、Astro、Tailwind CSS 的现代化开源项目与启动模板.
-* 更新设计资源板块，移除了过时的 PSD 模板，替换为 Figma 社区资源及 Lapa Ninja、Godly 等现代网页设计灵感库.
 
