@@ -23,57 +23,23 @@
 ## ✨ 精品项目清单
 | 类别 | 开发者 | 项目名称 | 链接 | 简介 |
 | --- | --- | --- | --- | --- |
-| **内容安全** | CheckAIBots | CheckAIBots | [CheckAIBots](https://checkaibots.com) | **卖“铲子”的生意：** 随着 AI 爬虫横行，网站反爬是硬刚需。它通过阻断 40+ 种 AI 爬虫，为内容创作者提供“护城河”，属于典型的防御型基础设施。 |
-| **跨境开发** | Red | JSON Translator | [JSON Translator](https://jsontrans.fun) | **出海杠杆：** 针对开发者国际化的痛点。只要产品要出海，这就是必经之路。这种嵌入开发流的工作流工具，一旦使用，替代成本极高。 |
-| **AI 视频编辑** | Jazz Jay | Runway Aleph | [Runway Aleph](https://runwayaleph.net/) | **生产力重塑：** 文本驱动的视频编辑（增删对象、改光影）是下一代专业创作的标配。它将昂贵的后期成本降低了两个数量级。 |
-| **细分专业工具** | Hugh | PixSprout | [PixSprout](https://pixsprout.com/text-to-stamp) | **审美红利：** 虽然小众，但它在“复古印章”这一细分视觉领域做到了极致。这种“小而美”的工具往往能通过极低的维护成本获得极高的用户忠诚度。 |
-| **教育+AI** | Orion | Ries.AI | [Ries.AI](https://ries.ai/zh/learn-english) | **改变认知成本：** 它不让你“学”英语，而是让你在看视频时“接触”英语。这种基于渐进式压力的学习模型，比传统教育更符合人性，具有很强的成瘾性。 |
-| **开源情报(OSINT)** | whatsmyname | WhatsMyName | [WhatsMyName](https://www.whatsmyname.cc/) | **数据垄断力：** 跨 700+ 平台检索数字足迹。这种工具在背景调查、安全审计领域具有极高的行业壁垒，数据索引量就是它的护城河。 |
-| **学术效率** | Voyagard | Voyagard | [Voyagard](https://voyagard.com) | **高粘性工作站：** 覆盖论文调研到降重的全流程。学生和研究员一旦在平台上积累了文献和笔记，就会产生极高的退出门槛。 |
-| **垂直视频转化** | 饭特稀 | Text Remover | [Text Remover](https://textremoverfromimage.com/) | **简单即正义：** 专注于“去除文字”这一单一高频需求。这种直觉型工具极易在自媒体圈层通过口碑传播，获客成本接近于零。 |
-| **开发者利器** | Ricky Lee | AppIconKitchen | [AppIconKitchen](https://www.appiconkitchen.com/) | **极低摩擦力：** 解决了开发者最厌烦的“多平台切图”繁琐流程，将复杂规范自动化，是典型的提效护城河。 |
-| **设计工程** | Johnson Zou | Printery | [Printery](https://www.printery.app/) | **填补市场空白：** 垂直切入 Figma 与印刷行业的断层，CMYK 与出血位支持是专业级刚需，具有明确的细分市场壁垒。 |
-| **垂直医疗技术** | suxiaoshuang | Dicom to STL | [Dicom2stl](https://dicom2stl.io/) | **硬核技术壁垒：** 跨越医学影像与 3D 打印两个专业领域，解决科研与临床实操中的格式转化痛点，极具价值。 |
-| **安全传输** | Ch3nyang | EasyTransfer | [EasyTransfer](https://file.ch3nyang.top/) | **诚信与隐私：** 免费、匿名且支持 E2EE 加密。在数据隐私日益昂贵的时代，这种“简单纯粹”的底层逻辑最获信赖。 |
-| **AI 图像生成** | ziwu | Omnigen2 | [Omnigen2](https://omnigen2.org/) | **技术新颖性：** 并非简单的 API 套壳，而是基于 7B 大模型的统一多模态能力，实现了 PS 级的精准操控。 |
-| **职场辅助** | 多喝热水 | OfferStar | [OfferStar](https://www.offerstar.cn) | **强力刚需：** 针对求职市场的极致痛点进行优化，其“秒级响应”和“防检测”能力形成了独特的技术对抗性护城河。 |
-| **隐私办公** | Qiwei | Tovo | [Tovo](https://tovo.dev) | **本地化价值：** “数据不离设备”是针对企业级会议助手的最高级护城河，解决了 AI 普及中最核心的信任隐患。 |
-| **金融分析** | filinginsight | FilingInsight | [FilingInsight](https://filing-insight.com/) | **先哲的最爱：** 查理·芒格会喜欢这个。AI 快速提炼美股万页财报关键词，极大地提高了投资者的决策带宽。 |
-| **静态托管** | wo-zx | 上码 (Upma) | [Upma](https://upma.cn/) | **本土化护城河：** 针对国内 CDN 环境的专项优化，解决了 Vercel 等平台在国内“最后三公里”的访问痛点。 |
-| **OCR 技术** | Selenium39 | LLMOCR | [LLMOCR](https://llmocr.com) | **认知升级：** 引入大模型理解复杂布局，不仅是识别文字，更是理解结构，是传统 OCR 产业的降维打击。 |
-| **数字人文** | 雷光 | 古籍數字復刻 | [vBooks](https://github.com/shanleiguang/vBooks) | **长期主义：** 这不是为了短期盈利，而是为了文化传承。这种对古籍的沉浸式复刻具有不可替代的社会价值。 |
-| **极简心理** | Albert | 蒲公英 | [Pugongying](https://www.pugongying.ink/) | **逆向思考：** 在所有产品都试图锁住用户时，它反其道而行之，“无账号、无社交、写完即走”，极具人文美学。 |
-| **游戏生态增强** | 粉丝社区 | PVZ Fusion | [PVZ Fusion](https://pvzfusion.io/) | **品牌特许权：** 借力经典 IP 叠加深度创新。这种在成熟模型上的“融合进化”极大地提高了用户复玩率，形成了稳固的粉丝护城河。 |
-| **垂直计算工具** | 玩家团队 | Star Rupture Calculator | [Star Rupture Tools](https://starrupture-tools.com/) | **收费站逻辑：** 在复杂的资源规划中，它是硬核玩家的“刚需”。虽然受众有限，但在该领域具有极高的依赖性和零重置成本。 |
-| **逻辑推理资产** | 独立团队 | Pips Game | [Pips game](https://pipsgame.dev/) | **普世价值：** 逻辑思维是人类长期的智力需求。其极简主义设计降低了维护成本，每日更新机制培养了长期的用户行为粘性。 |
-| **IP 寄生流量** | 社区开发者 | LoLdle | [LoLdle](https://loldle.lol/) | **低成本扩张：** 完美利用了全球最大游戏 IP 的剩余价值。通过每日碎片化互动，以极低的成本获取了高频的回访流量。 |
-| **细分市场辅助** | 独立开发者 | Connections Hint | [Connections Hint](https://connectionshint.cc/) | **痛点套利：** 针对 NYT 这种“大厂”无法顾及的细分辅助需求提供服务。这种“补位”策略在特定生态圈内非常稳健。 |
-| **AI 图像综合** | liunice | KissPixel | [KissPixel](https://kisspixel.ai/) | **全能型工具：** 集成文生图、风格转换、AI 换脸、智能替换及商业授权，是目前清单中成熟度最高的图像方案。 |
-| **AI 图像生成** | ziwu | Omnigen2 | [Omnigen2](https://omnigen2.org/) | **技术驱动：** 智源开源 7B 大模型，支持 PS 级的精准元素增删与背景替换，具有极高的技术新颖性。 |
-| **AI 视频生成** | wdh | Veegen | [Veegen](https://veegen.ai/) | **垂直领域：** 专注图生视频，是目前 AI 视频赛道中落地最快的应用场景。 |
-| **AI 音频工具** | Flicker | AI LRC Generator | [AI LRC Generator](https://ailrcgenerator.com/) | **痛点清晰：** 解决老歌/小众音频无歌词问题，支持自动识别与时间轴精准同步。 |
-| **AI 效率工具** | Enda | AI Todo | [AI Todo](https://www.aitodo.art) | **差异化竞争：** 摒弃臃肿功能，专注将“随手输入”自动转化为结构化任务并实时排序。 |
-| **AI 会议助手** | Qiwei | Tovo | [Tovo](https://tovo.dev) | **隐私导向：** 完全在设备本地运行的实时转录与协助，精准切入商务隐私痛点。 |
-| **AI 英语学习** | Orion | Ries.AI | [Ries.AI](https://ries.ai/zh/learn-english?c=sP0B) | **模式创新：** 创新地将高频词融入用户日常浏览的中文内容中，实现“无痛”习得。 |
-| **AI 决策辅助** | james | 去留助手 AI | [去留助手 AI](https://www.huiguo.info/) | **目标明确：** 针对留学生群体，通过大数据评估回国与留外的路径优劣。 |
-| **开发者平台** | guangzhengli | NextDevKit | [NextDevKit](https://nextdevkit.com) | **极速开发：** 集成了 SaaS 核心模块的启动模板，帮助开发者在一天内上线项目。 |
-| **开发者平台** | nogeek | Days Launch | [Days Launch](https://dayslaunch.com/) | **流量中心：** 免费的项目发布站与目录站，为独立开发者提供获客与宣传渠道。 |
-| **内容管理** | ShawnHacks | Gemlink.app | [Gemlink.app](https://gemlink.app) | **信息去噪：** 解决跨平台内容割裂的“稍后阅读”替代方案，打造个性化知识库。 |
-| **文化数字化** | 雷光 | 中文古籍復刻 | [GitHub vBooks](https://github.com/shanleiguang/vBooks) | **人文价值：** 将古籍影像复刻为可查询、可圈点的电子书，具有极高的社会与文化价值。 |
-| **设计辅助** | sk | AIColoringPages | [AIColoringPages](https://ai-coloring-pages.art) | **特定受众：** 专注 AI 生成着色线稿，切入儿童教育与减压绘画细分市场。 |
-| **心理放松** | Margox | 晚星 | [晚星](https://dream.sayhi.cc/) | **高品质：** 简约纯粹的白噪音组合工具，音效丰富且 UI 审美水平较高。 |
-| **AI图像编辑** | [Nano Banana](https://picir.ai/) | 疯狂的小波 | 支持“用嘴改图”、保持角色一致性及细节控制。 | **技术壁垒**：基于先进垂直模型，交互逻辑强。 |
-| **视频专业编辑** | [Runway Aleph](https://runwayaleph.net/) | Jazz Jay | 支持添加/删除对象、生成新相机视角。 | **生产力**：专业级视频流编辑，非简单生成。 |
-| **摄影专业工具** | [相机水印生成器](https://exifframe.org) | seeeeal | 在线自动提取EXIF信息并生成优雅水印布局。 | **刚需**：摄影圈垂直审美，无需注册且免费。 |
-| **短剧跨境翻译** | [Video Translator](https://videotranslator.io/) | Ronny | 针对短剧场景的视频翻译工具。 | **行业风口**：短剧出海刚需，目标客户极其明确。 |
-| **对话深度分析** | [Chat Recap AI](https://chatrecap.io) | 林悦己 | 分析对话模式、情绪逻辑及红旗信号。 | **独特性**：心理学+AI应用，具有极高社交传播性。 |
-| **AI识别工具** | [Mushroom ID](https://mushroomidentification.online) | Sean | 快速识别蘑菇并提供毒性及高危相似种警告。 | **实用性**：细分赛道，包含生命安全预警逻辑。 |
-| **商业情报** | [ARR 排行榜](https://arrfounder.com) | 北纬27度 | 爬取全网公开ARR营收数据制作的Founder榜单。 | **价值密度**：B端及创业者高度关注的决策参考。 |
-| **开发者效率** | [LLM from URL](https://818233.xyz/) | yvonuk | 通过网址直接调用大模型，支持终端wget。 | **便捷性**：极简交互，适合开发者集成测试。 |
-| **AI竞赛聚合** | [AI 赛事通](https://www.competehub.dev/zh) | ai77 | 全球AI竞赛聚合平台，收录多领域赛事奖金信息。 | **垂直聚合**：针对开发者和求职者的精准流量。 |
-| **内容分发工具** | [Copy My Text](https://www.copymytxt.com) | Galen Dai | Markdown文本一键转海报或加密短链。 | **传播力**：解决了开发者内容在社交媒体优雅展示的问题。 |
-| **SEO外链管理** | [Backlink Manager](https://backlinkmanager.net) | Susu | 专注于外链提交、SEO监测及权重提升。 | **专业性**：针对出海站长的刚需生产力工具。 |
-| **交互教学工具** | [EZQuiz](https://ezquiz.online) | licon | AI驱动的实时测验工具，适合演讲或教学互动。 | **场景化**：强互动性，适合EdTech细分场景。 |
+| **基础设施** | CheckAIBots | CheckAIBots | [访问](https://checkaibots.com) | **防御性资产：** 在 AI 泛滥的时代，反爬就是数字领地的“围墙”。这种典型的防御型基础设施，具有极高的行业刚需和长期确定性。 |
+| **开发工作流** | Red | JSON Translator | [访问](https://jsontrans.fun) | **极致提效：** 出海国际化的必经桥梁。它通过嵌入开发者的核心工作流，创造了极高的“切换成本”，是典型的提效护城河。 |
+| **细分专业工具** | Johnson Zou | Printery | [访问](https://www.printery.app/) | **填补市场空白：** 专注于 Figma 到专业印刷的“最后一公里”。CMYK 和出血位支持是专业设计师的硬核痛点，具有极强的垂直壁垒。 |
+| **安全与信任** | Ch3nyang | EasyTransfer | [访问](https://file.ch3nyang.top/) | **品牌特许权：** 纯粹、匿名、端到端加密。在隐私泄露常态化的今天，这种“诚信”就是最昂贵的资产，能赢得高净值用户的长期忠诚。 |
+| **垂直医疗技术** | suxiaoshuang | Dicom to STL | [访问](https://dicom2stl.io/) | **硬核护城河：** 跨越医学影像与 3D 打印。这种高技术门槛的项目不依赖流量，而是依靠“无可替代性”获胜，竞争对手极难复制。 |
+| **金融生产力** | filinginsight | FilingInsight | [访问](https://filing-insight.com/) | **认知赋能：** 巴菲特每天读 500 页资料，这个工具能让普通人拥有类似的提取效率。这种缩短决策路径的工具，在金融圈极具价值溢价。 |
+| **教育模式创新** | Orion | Ries.AI | [访问](https://ries.ai/zh/learn-english?c=sP0B) | **顺应人性：** 摒弃痛苦的背诵，改为“无感接触”。这种降低用户意志力损耗的产品逻辑，比传统教育产品拥有更好的留存曲线。 |
+| **开发者生态** | guangzhengli | NextDevKit | [访问](https://nextdevkit.com) | **时间价值：** 将原本需要数周的开发工作压缩到一天。对于开发者来说，时间就是金钱，这种能够量化节省成本的“生产力套装”非常有吸引力。 |
+| **垂直计算** | 玩家团队 | Star Rupture Calculator | [访问](https://starrupture-tools.com/) | **社区粘性：** 硬核玩家的“必经之路”。这种寄生于游戏生态的工具，虽然受众精准，但在其生态内拥有极高的用户生命周期价值。 |
+| **视频生产力** | Jazz Jay | Runway Aleph | [访问](https://runwayaleph.net/) | **颠覆性提效：** 将原本需要数小时的 VFX 后期（增删对象、改视角）简化为对话。这种“嘴强后期”极大地降低了专业门槛，具备极强的行业替代价值。 |
+| **短剧出海** | Ronny | Video Translator | [访问](https://videotranslator.io/) | **紧贴风口：** 短剧出海是当前增长最快的细分赛道之一。这种“精准卖水”的工具，由于其目标客户（短剧出海商）付费意愿极强，具有非常清晰的盈利模型。 |
+| **商业情报** | 北纬27度 | ARR 排行榜 | [访问](https://arrfounder.com) | **透明度溢价：** 查理·芒格喜欢透明的数字。通过爬取真实的 ARR 数据，它建立了一个“信誉背书”平台，不仅是情报库，未来更有潜力成为 SaaS 领域的权威引流入口。 |
+| **社交心理分析** | 林悦己 | Chat Recap AI | [访问](https://chatrecap.io) | **高传播杠杆：** 洞察人性是最好的生意。它将复杂的心理学分析转化为极具社交传播性的“情绪报告”，具备病毒式增长的潜质，且隐私保护逻辑增加了用户信任。 |
+| **垂直生命安全** | Sean | Mushroom ID | [访问](https://mushroomidentification.online) | **稀缺性门槛：** 这是一个典型的“一旦需要，就必须准确”的工具。其包含的毒性预警逻辑建立了极高的品牌信任门槛，在户外垂直领域具有极强的生命力。 |
+| **SEO 基础设施** | Susu | Backlink Manager | [访问](https://backlinkmanager.net) | **收费桥梁：** SEO 外链管理是出海站长的“刚需劳动力”。这种流程管理工具一旦接入，用户由于历史数据积累，迁移成本极高，具有典型的“路桥费”属性。 |
+| **极简开发** | yvonuk | LLM from URL | [访问](https://818233.xyz/) | **摩擦力最小化：** 巴菲特喜欢那种业务简单的公司。它将调用大模型的门槛降低到了一个 URL，这种极致的极简主义往往能吸引最核心的极客流量。 |
+| **低成本视觉资产** | seeeeal | 相机水印生成器 | [访问](https://exifframe.org) | **垂直审美红利：** 解决了摄影师“最后一步”的仪式感。虽然业务简单，但由于其无注册、免上传的极低使用摩擦力，它正迅速占领摄影社区的工具心智。 |
 | **AI 图像处理** | xiaobin(北京) | 灵象工具箱 | [访问](https://www.lingxiangtools.top/) | **隐私与全能：** 唯一支持本地模式的综合工具箱，集视频抠图、去水印于一体，适配 Win/Mac，保障隐私。 |
 | **格式转换** | Ethan Sunray | TO MD | [访问](https://tomd.io) | **生产力利器：** 极简且高质量地将多种文档转为结构化 Markdown，是笔记和文档管理者的刚需工具。 |
 | **AI 辅助工具** | 黑查理(长沙) | 软著宝 | [访问](https://ruanzhubao.com) | **特定刚需：** 针对开发者痛点，利用 AI 一键生成复杂的软著申报材料，具有极高的转化效率。 |
@@ -93,9 +59,6 @@
 | **简历服务** | Xiao Hanyu | **PPResume** | [访问](https://ppresume.com) | **高质简历**：基于 LaTeX 确保排版绝对完美，定位高端求职市场，差异化竞争优势明显。 |
 | **隐私安全** | DawnRiver | **Meebox** | [访问](https://meebox.io) | **数据保险箱**：集加密存储与多种媒体格式于一体，切中高净值人群对隐私保护的刚需。 |
 | **HTTPS 证书服务** | ohttps | **OHTTPS** | [访问](https://ohttps.com/) | **高商业价值**：解决企业/开发者HTTPS自动化续签痛点，支持Docker集成，具有明显的SaaS属性。 |
-| **代码转换/生成** | JustAIGithub | **AICodeConvert** | [访问](https://aicodeconvert.com/) | **强生产力**：专注于跨语言代码转换（如Java转Python），对开发者有极高粘性。 |
-| **文件系统工具** | hoochanlon | **Nigate** | [访问](https://github.com/hoochanlon/Free-NTFS-For-Mac) | **刚需工具**：Mac用户读写NTFS格式驱动器的免费方案，解决了苹果系统的长期痛点，具有强传播性。 |
-| **Markdown 笔记** | Tw93 | **妙言 (MiaoYan)** | [访问](https://github.com/tw93/MiaoYan) | **极高质量**：开源界知名的本地笔记应用，UI设计极佳，具备与大厂付费产品竞争的实力。 |
 | **个人智能代理** | changwu | **虾答** | [访问](https://xiada.cn) | **差异化AI**：结合私有知识库的AI代理，比普通GPT套壳更具商业落地价值，适合B端或深度个人使用。 |
 | **视频生产力** | R1ckShi | **FunClip** | [访问](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary) | **最强剪辑**：集成阿里 FunASR 模型，通过修改文本即可剪辑视频，极具商业与效率价值。 |
 | **寓教于乐RPG** | Tan | **DenoPark** | [访问](https://denopark.com) | **差异化竞争**：将打字练习与RPG游戏结合，解决了枯燥的记忆痛点，有较高的用户留存潜力。 |
