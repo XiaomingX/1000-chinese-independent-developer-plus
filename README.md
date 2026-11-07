@@ -51,6 +51,7 @@
 | **数据决策** | 罗伊 | **EarlyBird** | [访问](https://earlybird.im) | **验证利器**：低代码落地页构建工具，帮助开发者在 10 分钟内验证产品创意，商业闭环完整。 |
 | **后端工具** | Lykin | **Tiny RDM** | [访问](https://redis.tinycraft.cc/zh/) | **硬核工具**：目前市面上颜值最高、体验最轻量化的 Redis 桌面客户端，开发者生态口碑极佳。 |
 | **效率中心** | MrPan | **RunFlow** | [访问](https://myrest.top/zh-cn/myflow) | **系统级增强**：跨平台效率启动器，支持高度插件化扩展，是 Alfred/Wox 的强力国产替代方案。 |
+| **桌面效率工具** | tumingke0 | **LayoutKeeper** | [访问](https://github.com/tumingke0/LayoutKeeper) | **多屏痛点终结**：免费开源的 macOS 多显示器窗口与屏幕管理工具，拔插显示器或休眠唤醒后自动把窗口恢复到原显示器和所属桌面（Space），支持按机身不同 USB-C 接口自动切换屏幕排列、外接屏硬件 DDC 亮度跟随内建屏幕环境光自动变化及菜单栏 4 档防休眠。 |
 | **垂直领域 AI** | Wesley | **White80 Football** | [访问](https://white80.football) | **垂直新颖**：极少见的 AI 橄榄球战术分析工具，目标人群极其垂直且专业。 |
 | **内容安全** | Ethan Sunray | **Content Credentials** | [访问](https://contentcredentials.io/) | **前沿标准**：基于 C2PA 协议验证内容真实性，应对 AI 造假时代的蓝海技术，极具前瞻性。 |
 | **财务分析** | 阿禅 Jason Ng | **躺平计算器** | [访问](https://retire.money/) | **传播力强**：精准抓住当代人“提前退休”的焦虑，工具逻辑清晰，具有极强的社交裂变属性。 |
